@@ -4,31 +4,31 @@
     {
       "id": 0,
       "nama": "Aljabar",
-      "gambar": "https://3.bp.blogspot.com/-kYmNvTEUr0c/XauuQpxOQdI/AAAAAAAAAEY/fGGH5wUPmoUYK3YURcqj5mhgfDT2yXS3ACLcBGAsYHQ/s1600/Aljabar.png",
+      "gambar": "https://i.postimg.cc/G24ppvWQ/Aljabar.png",
       "pengertian": "Bentuk aljabar adalah teknik yang digunakan untuk menyajikan suatu masalah matematika dengan simbol atau huruf sebagai peubah suatu objek dalam masalah tersebut."
     },
     {
       "id": 1,
       "nama": "keliling lingkaran",
-      "gambar": "https://1.bp.blogspot.com/-H3kW_XC-CV4/YUdH0t9VGFI/AAAAAAAAIQs/ZnLdmNvSJVQGPznrgYx2fAqbHBV3Ybj9ACLcBGAsYHQ/w640-h360/Cara%2BMenghitung%2BKeliling%2BLingkaran.jpg",
+      "gambar": "https://i.postimg.cc/KjVvL422/Cara-Menghitung-Keliling-Lingkaran.jpg",
       "pengertian": "Sebuah lingkaran membentuk garis lengkung dengan panjang tertentu yang disebut keliling. Rumus keliling lingkaran adalah K = 2πr atau K = πd. Lambang K adalah keliling lingkaran. Hasil bagi keliling dengan diameter lingkaran akan diperoleh bilangan yang nilainya 3,14 atau dapat juga menggunakan pembagian 22/7 yang disebut pi (π). Sedangkan r adalah jari-jari lingkaran."
     },
     {
       "id": 2,
       "nama": "Keliling Persegi Panjang",
-      "gambar": "https://www.yuksinau.id/wp-content/uploads/2021/01/rumus-lebar-persegi-panjang.jpg",
+      "gambar": "https://i.postimg.cc/nLRzZ3Pr/rumus-lebar-persegi-panjang.jpg",
       "pengertian": "Persegi panjang memiliki panjang sisi yang berbeda. Ada 2 sisi yang di sebut panjang dan 2 sisi yang di sebut lebar. Karena itulah rumus keliling persegi panjang adalah mengalikan penjumlahan panjang dan lebarnya dengan angka 2"
     },
     {
       "id": 3,
       "nama": "Keliling Segitiga",
-      "gambar": "https://asset-a.grid.id//crop/0x0:0x0/700x0/photo/2021/01/15/3991804788.jpg",
+      "gambar": "https://i.postimg.cc/nhmM4Krw/3991804788.jpg",
       "pengertian": "Mencari Keliling Segitiga Saat Diketahui Ketiga Sisinya. Ingat kembali rumus untuk mencari keliling. Rumusnya yaitu: K= a + b + c. a, b, dan c merupakan panjang sisi-sisi segitiga dan K merupakan keliling segitiga"
     },
     {
       "id": 4,
       "nama": "Keliling Trapesium",
-      "gambar": "https://cilacapklik.com/wp-content/uploads/2020/09/1599100950-picsay.jpg",
+      "gambar": "https://i.postimg.cc/VNcvDSbs/1599100950-picsay.jpg",
       "pengertian": "Untuk mencari keliling trapesium, cari dulu sisi miringnya menggunakan phytagoras. Jadi, keliling trapesium = a + b + c + d = 3 + 4 + 6 + 5 = 18 cm"
     }
 
